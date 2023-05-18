@@ -11,6 +11,8 @@ A cookie loader for Chrome Brave and Opera, the fastest on the market.
 
 ▶️ Video: https://www.youtube.com/watch?v=7qJsOXWiJSs
 
+💲 Buy: https://nuoxetin.sellix.io/product/646627ccd0991
+
 
 
 ## Demo
